@@ -1,4 +1,4 @@
-hello-world -Update Today 10/24/2018 -2.50M
+hello-world -Update Today 10/24/2018 -3PM
 ===========
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
