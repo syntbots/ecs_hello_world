@@ -9,6 +9,7 @@
     },
     "AWSRegionToAMI" : {
       "us-east-1"      : { "AMIID" : "ami-40286957" },
+      "us-east-2"      : { "AMIID" : "ami-552e3455b9bc8d50" },
       "us-west-1"      : { "AMIID" : "ami-20fab440" },
       "us-west-2"      : { "AMIID" : "ami-562cf236" },
       "eu-west-1"      : { "AMIID" : "ami-175f1964" },
